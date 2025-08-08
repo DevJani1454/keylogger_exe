@@ -1,0 +1,1 @@
+ [Key.shift]  [Key.shift]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.esc]  [Key.esc] 
